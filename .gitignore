@@ -3,3 +3,7 @@ venv/
 chroma_db
 chroma_db1
 __pycache__
+/eval_cache
+/eval_results
+vector_stores
+.DS_Store
